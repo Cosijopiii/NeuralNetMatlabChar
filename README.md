@@ -1,0 +1,2 @@
+# NeuralNetMatlabChar
+ONLY FOR ACADEMIC AND RESEARCH USE
